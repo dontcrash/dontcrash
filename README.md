@@ -1,8 +1,7 @@
-## Hi there 👋
 
 <!--
 **dontcrash/dontcrash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=dontcrash&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark&bg_color=00000000&hide_border=true&include_all_commits=true&rank_icon=percentile)
